@@ -2,4 +2,4 @@ New Text
 
 I'm writing in Rspi
 User Name Changing Test.
-이건 공통문서 입니다. 같이 수정하죠.
+이건 공통문서 입니다. 같이 수정하죠!
